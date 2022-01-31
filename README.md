@@ -1,3 +1,9 @@
+# Note: Node modules folder not uploaded to git.
+
+To run the project, first install node modules locally.
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
